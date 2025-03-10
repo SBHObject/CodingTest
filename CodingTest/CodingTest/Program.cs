@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            DounutPlanet planet = new DounutPlanet();
+
+            planet.Solution();
         }
     }
 }
