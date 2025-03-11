@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            DounutPlanet planet = new DounutPlanet();
+            BJ17070 movePipe = new BJ17070();
 
-            planet.Solution();
+            movePipe.Solution();
         }
     }
 }
