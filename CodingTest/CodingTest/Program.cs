@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            BJ17070 movePipe = new BJ17070();
+            BJ1654 cutLen = new BJ1654();
 
-            movePipe.Solution();
+            cutLen.Solution();
         }
     }
 }
