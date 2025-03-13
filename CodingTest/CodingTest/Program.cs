@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            BJ1654 cutLen = new BJ1654();
+            BJ2023 specialPrimes = new BJ2023();
 
-            cutLen.Solution();
+            specialPrimes.Solution();
         }
     }
 }
