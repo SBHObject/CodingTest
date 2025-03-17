@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            BJ2023 specialPrimes = new BJ2023();
+            BJ1194 searchMaze = new BJ1194();
 
-            specialPrimes.Solution();
+            searchMaze.Solution();
         }
     }
 }
