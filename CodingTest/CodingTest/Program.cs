@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            BJ9095 bJ9095 = new BJ9095();
-            bJ9095.Solution();
+            BJ14501 bJ14501 = new BJ14501();
+            bJ14501.Solution();
         }
     }
 }
